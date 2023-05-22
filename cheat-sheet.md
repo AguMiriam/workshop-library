@@ -1,6 +1,7 @@
 # Workshop Cheat Sheet
 
 Here are the steps to take to host a workshop:
+i do nOT wanT THis
 
 ## Planning phase
 
